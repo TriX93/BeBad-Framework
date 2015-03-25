@@ -1,0 +1,10 @@
+{
+	"config": {
+    	"vendor-dir": "application/libs"
+	},
+    "require": {
+        "klein/klein": "~2.1",
+        "php-activerecord/php-activerecord": "~1.1",
+        "philo/laravel-blade": "2.*"
+    }
+}
